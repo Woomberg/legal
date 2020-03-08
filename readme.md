@@ -13,4 +13,4 @@ If you notice any typos or would like to suggest any changes, please contribute 
 The content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). Please feel free to make alterations via pull-request.
 
 ### Additional thing you should know
-Part of these legal documents are an adapted version of the legal terms shared by Automattic (available on GitHub https://github.com/Automattic/legalmattic) and which have been released these terms under the same license, [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
+Part of these legal documents are an adapted version of the legal terms shared by Automattic (available on GitHub https://github.com/Automattic/legalmattic) and which have been released under the same license, [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
