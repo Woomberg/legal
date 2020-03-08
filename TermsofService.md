@@ -117,6 +117,6 @@ You agree to indemnify and hold harmless to Woomberg, its contractors, and its l
 
 #### Changes
 
-Woomberg, Inc reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, Woomberg will notify you by posting an announcement on the site. What constitutes a material change will be determined at Woomberg’s sole discretion. You shall be responsible for reviewing and becoming familiar with any such modifications. Using any service or viewing any content following notification of a material change to the terms shall constitute your acceptance of the Terms as modified.
+Woomberg, LLC., reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, Woomberg will notify you by posting an announcement on the site. What constitutes a material change will be determined at Woomberg’s sole discretion. You shall be responsible for reviewing and becoming familiar with any such modifications. Using any service or viewing any content following notification of a material change to the terms shall constitute your acceptance of the Terms as modified.
 
 
