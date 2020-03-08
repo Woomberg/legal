@@ -5,7 +5,7 @@
 This is the source of several "legal documents" on Woomberg.com, including the Terms of Service.
 
 ### What can I do with it?
-Please read every of the legal documents below carefully to understand our policies and practices regarding our terms of service as well as your personal information and how we will treat it. 
+Please read every of the legal documents available on this source carefully to understand our policies and practices regarding our terms of service as well as your personal information and how we will treat it. 
 
 If you notice any typos or would like to suggest any changes, please contribute a pull request.
 
