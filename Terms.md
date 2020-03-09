@@ -30,9 +30,9 @@ Subject to your compliance with all of the terms and conditions of this agreemen
 
 You are solely responsible for the content of any postings, data or transmissions using Services, or any other use of the Services by a User. You agree to comply with this agreement, make all payments of fees when due, and comply with all laws applicable to your use of the Services. You shall cooperate with Woomberg's investigation of service outages, security issues, or any suspected breach of the terms and conditions of this agreement.
 
-#### WordPress Only Hosting
+#### WordPress Only
 
-Woomberg is a Managed WordPress Hosting and Support. We only allow WordPress and WordPress compatible plugins and themes. In other words, if you add any 3rd party software to an account/site that is NOT in the form of a WordPress plugin, you are in breach of this agreement.
+Woomberg is a web maintenance, and support service specialized in WordPress solutions crafted to operators of websites running on single-site installations of WordPress. We only allow WordPress and WordPress compatible plugins and themes. In other words, if you add any 3rd party software to an account/site that is NOT in the form of a WordPress plugin, you are in breach of this agreement.
 
 Woomberg retains the right to audit such code for performance and security concerns and allow or disallow at sole discretion.
 
