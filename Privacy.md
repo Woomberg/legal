@@ -48,7 +48,6 @@ As you navigate through and interact with our Website, we may use automatic data
 
 -   Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
 -   We collect information about your computer and internet connection—for instance, your IP address, operating system, and browser type.
--   
 
 We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
