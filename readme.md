@@ -1,5 +1,5 @@
 # Woomberg, LLC.
-## Trusted WordPress Support & Hosting services.
+## Trusted WordPress Support.
 
 ### What is this?
 This is the source of several "legal documents" on Woomberg.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
