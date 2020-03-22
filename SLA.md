@@ -10,6 +10,14 @@ The Service Commitments under this SLA are as follows:
 -   Woomberg is a web maintenance, and support service specialized in WordPress solutions crafted to operators of websites running on single-site installations of WordPress.
 -   Woomberg service does not support WordPress Multisite installations.
 
+#### Your WordPress Site VS Our Hosting Service
+
+Your WordPress website is unique to you. You’ve chosen the plugins, the theme, and made any manner of customization to it. Your audience is also unique to your site. They may purchase goods, browse articles, or reply to questions in an online survey. These choices and decisions are all factors that influence how your website may perform. For instance, a random blog site may easily handle millions of page views, while a casual corporate website may barely handle ten visitors concurrently before suffering performance problems. Each website will perform differently under identical hosting plans. Therefore in nearly every case: A 503 error on your website is not an outage of our hosting service.
+
+There are some cases where our service would be to blame, though: we misconfigured something, our automation failed, or there is a bug in our code. This distinction between your site and our service is essential to understand in the context of an SLA.
+
+We at Woomberg, LLC. will do everything we can to help you succeed, respond to issues that may arise promptly and professionally, and offer guidance and advice on best practices as it pertains to WordPress performance and security.
+
 #### WordPress Support Requests and Reasonable Use
 
 -   WordPress tasks or support must be requested through email or via live chat and responded to in a reasonable amount of time. Our support hours depend on the level of your plan. Pro plan may have higher availability, but our default hours are 9:00 a.m – 5:00 p.m EST (Eastern Standard Time).
@@ -92,7 +100,7 @@ Here are the WordPress tasks or Requests that are outside of our scope of Servic
 
 Unless you are a Pro plan subscriber or you have a custom solution package with us, if you don’t see your task listed above, submit a support request by email to help@woomberg.com and ask if we can help you with your problem.
 
-#### 
+####
 
 #### Backups
 
