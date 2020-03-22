@@ -1,6 +1,12 @@
 Terms of Service
 ================
 
+## The Gist
+
+We (the [folks at Woomberg](https://woomberg.com/about/)) are on a mission to make the web a better place. We hope you love our products and services as much as we enjoy creating them. These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. We’ve decided to make these Terms available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of these Terms and other legal documents on [Github](https://github.com/Woomberg/legal). You’re more than welcome to copy them, adapt them, and repurpose them for your use. Just make sure to revise the language so that your Terms reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Woomberg somewhere on your website.
+
+## Terms of Service
+
 These terms of service are entered into by and between You and Woomberg, LLC. ("Woomberg." "we" or "us"). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, with Woomberg's Privacy Policy and the rest of our legal documents), govern your access to and use of https://woomberg.com (collectively, the "Website")., and any subdomains thereof as well as any content, functionality, and services offered on or through https://woomberg.com and such subdomains (collectively, the "Services").
 
 Please read these terms carefully before using the services. By accessing the site, viewing any content or using any services available on the site (as each is defined below), you agree to be bound by these terms, which together with our [Privacy policy,](https://www.google.com/url?q=https://woomberg.com/legal/privacy-policy/&sa=D&ust=1583733940065000) governs our relationship with you concerning the site. If you disagree with any part of these terms, then you may not access the website or use any of our services.
