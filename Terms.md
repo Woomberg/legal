@@ -1,11 +1,11 @@
 Terms of Service
 ================
 
-## The Gist
+#### The Gist
 
 We (the [folks at Woomberg](https://woomberg.com/about/)) are on a mission to make the web a better place. We hope you love our products and services as much as we enjoy creating them. These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. We’ve decided to make these Terms available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of these Terms and other legal documents on [Github](https://github.com/Woomberg/legal). You’re more than welcome to copy them, adapt them, and repurpose them for your use. Just make sure to revise the language so that your Terms reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Woomberg somewhere on your website.
 
-## Terms of Service
+#### Terms of Service
 
 These terms of service are entered into by and between You and Woomberg, LLC. ("Woomberg." "we" or "us"). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, with Woomberg's Privacy Policy and the rest of our legal documents), govern your access to and use of https://woomberg.com (collectively, the "Website")., and any subdomains thereof as well as any content, functionality, and services offered on or through https://woomberg.com and such subdomains (collectively, the "Services").
 
@@ -53,7 +53,7 @@ By using this service, you grant Woomberg, LLC., permission, and a royalty-free 
 -   During our interactions with you, including while providing support, we may solicit, or you may give feedback on the Services. You agree that we are free to use and disclose this feedback for any purpose. If we make any changes to our current services or products, or develop new products or services, using the input, then you agree that we own all right, title and interest to such changes or new products or services.
 -   If your support request is out of the range by your plan or is not within the scope of our paid support services, we'll give you an estimate for completing the work you need done. We will inform you and receive your consent before charging you any additional fees for technical support.
 
-### HTTPS
+#### HTTPS
 
 We offer free HTTPS on all websites hosted in our servers by default via [Let’s Encrypt](https://letsencrypt.org). By signing up and using one of our WordPress Hosted plans, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
