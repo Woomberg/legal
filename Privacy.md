@@ -22,11 +22,15 @@ We believe the right way to support applications is with an ongoing and consiste
 This Privacy Policy applies to information that we collect about you when you use:
 
 -   Our Website woomberg.com;
--   Our blog blog.woomberg.com;
+-   Our blog woomberg.com/blog;
 -   Our other Woomberg products, services, and features that are available on or through our websites (for example, new templates or plugins we could launch on our Website); and
 -   Other users’ websites that use our Services, while you logged in to your account with us.
 
 This Privacy Policy also applies to information we collect when you fill an application form for a job at Woomberg. Throughout this Privacy Policy, we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.”
+
+### Creative Commons Sharealike License
+
+We’ve decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [GitHub](https://github.com/Woomberg/legal). You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we’d appreciate a credit and link to Woomberg somewhere on your site.
 
 #### Information we collect
 
@@ -171,4 +175,6 @@ Third-Party Services and your provision of information to and storage of your da
 
 Although most changes are likely to be minor, Woomberg may change its Privacy Policy from time to time. Woomberg encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the Woomberg Blog or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
+#### Change log
 
+- March 2, 2020: Included information about the Creative Commons ShareAlike License.
