@@ -53,6 +53,10 @@ By using this service, you grant Woomberg, LLC., permission, and a royalty-free 
 -   During our interactions with you, including while providing support, we may solicit, or you may give feedback on the Services. You agree that we are free to use and disclose this feedback for any purpose. If we make any changes to our current services or products, or develop new products or services, using the input, then you agree that we own all right, title and interest to such changes or new products or services.
 -   If your support request is out of the range by your plan or is not within the scope of our paid support services, we'll give you an estimate for completing the work you need done. We will inform you and receive your consent before charging you any additional fees for technical support.
 
+### HTTPS
+
+We offer free HTTPS on all websites hosted in our servers by default via [Let’s Encrypt](https://letsencrypt.org). By signing up and using one of our WordPress Hosted plans, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
+
 #### Fees
 
 -   Woomberg will invoice you in advance for the Recurring Fees and in arrears for the Non-Recurring Fees at the beginning of each Recurrence Period.
